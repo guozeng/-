@@ -1,7 +1,7 @@
 # git常用命令
 
-* 克隆到本地
-`git clone https://***.git`
+克隆到本地
+> `git clone https://***.git`
 
 将本地修改添加到提交列表
 `git add .`
